@@ -14,11 +14,16 @@ _Crear una pelicula - http://localhost:3000/movies/create_
 
 Deberá pasar los siguiente parámetros:
 
-_key:title   STRING_
-_key:rating  DECIMAL_
-_key:awards  INTEGER_
-_key:release_date  FECHA_
-_key:length  INT_
+_key:title   STRING_  
+
+_key:rating  DECIMAL_  
+
+_key:awards  INTEGER_  
+
+_key:release_date  FECHA_  
+
+_key:length  INT_  
+
 
 ## Tabla Series
 
@@ -32,6 +37,8 @@ _Crear una serie - http://localhost:3000/series/create_
 
 Deberá pasar los siguiente parámetros:
 
-_key:title   STRING_
-_key:release_date  FECHA_
-_key:release_end  FECHA_
+_key:title   STRING_  
+
+_key:release_date  FECHA_  
+
+_key:release_end  FECHA_  
